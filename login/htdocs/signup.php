@@ -90,6 +90,6 @@ if(isset($_POST["submit"])){
     <input type="submit" name="submit" value="Signup">
     </form>
     <h3 align="center">Go back to</h3>
-    <h3 align="center"><a href="ui1.html">Main Page</a></h3>
+    <h3 align="center"><a href="C:/Users/DELL/Desktop/Facial Recognition Based Attendance System Code/AttendanceProjectBasicCode/Facial-Recognition-Based-Attendance-System/web/templates/ui1.html">Main Page</a></h3>
 </body>
 </html>
